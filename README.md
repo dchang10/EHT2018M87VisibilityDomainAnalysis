@@ -1,1 +1,1 @@
-# EHT2018M87Visibilities
+# EHT 2018 M87* Visibility Domain Analysis

@@ -1,0 +1,7 @@
+name = "EHT2018M87Visibilities"
+uuid = "8f7ef137-f75f-4c98-8ff9-de2d80bb8932"
+authors = ["dochang"]
+version = "1.0.0-DEV"
+
+[compat]
+julia = "1.8"

@@ -14,6 +14,7 @@ The data for this analysis is available on the [EHT website](https://eventhorizo
  - **EHT Collaboration Data Portal Website**:
    https://eventhorizontelescope.org/for-astronomers/data
  - **2018 M87 Paper 1**: The Event Horizon Telescope Collaboration, et al. 2024, A&A, 681, A79
+ - **Juliaup Repo**: https://github.com/JuliaLang/juliaup
  - **Comrade.jl**: https://github.com/ptiede/Comrade.jl 
  - **Dynesty**: https://dynesty.readthedocs.io/en/stable/
 
